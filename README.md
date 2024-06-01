@@ -1,1 +1,2 @@
 # Free-fire-aim-
+.settings/ 
